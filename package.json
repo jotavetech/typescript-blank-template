@@ -1,0 +1,12 @@
+{
+  "name": "typescript-blank-template",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "dev": "tsc --watch & nodemon dist/index.js"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.2"
+  }
+}
